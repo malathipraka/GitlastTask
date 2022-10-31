@@ -17,6 +17,10 @@ public class Gitlasttask {
 		private void test2() {
 			System.out.println("testmethod test2");
 		}
+		@Test
+		private void newtaskAdded() {
+			System.out.println(" newtaskAdded");
+		}
 
 		
 		@Test
